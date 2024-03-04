@@ -1,0 +1,15 @@
+{
+  "name": "docker-playwright",
+  "version": "1.0.0",
+  "description": "An alternative to scrapping the web using Playwright instead of Puppetter which has terrible compatibility with Docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Alvarez",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.42.1"
+  }
+}
